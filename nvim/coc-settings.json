@@ -1,0 +1,7 @@
+{
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.highlighLimit": 300,
+  "flutter.sdk.flutter-lookup": "which flutter",
+  "coc.preferences.formatOnSaveFiletypes": ["css", "markdown", "typescriptreact"]
+}
+
